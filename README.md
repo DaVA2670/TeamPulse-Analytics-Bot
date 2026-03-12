@@ -2,11 +2,6 @@
 
 Backend-only Telegram analytics bot that ingests team chats, computes deterministic process signals (open loops, unresolved discussions, missing owners and deadlines, slow mention responses), and delivers daily/weekly fact-grounded reports to a whitelisted owner via private Telegram messages.
 
-This repository implements the MVP described in `specs/001-team-communication-analytics/` (spec, plan, data model, contracts, tasks).
-
-**Topics:** `telegram-bot` `communication-analytics` `team-analytics` `ai-bot` `llm` `chat-analytics` `team-productivity` `conversation-analysis` `nlp` `python` `openai` `analytics` `telegram-analytics` `team-insights`
-
----
 
 ## 1. High-level Features
 
