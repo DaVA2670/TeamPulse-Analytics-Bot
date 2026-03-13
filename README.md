@@ -230,4 +230,4 @@ For deeper non-functional requirements and guarantees, see `specs/001-team-commu
 
 ## 8. Russian README
 
-For a full Russian-language overview and setup guide, see `README.ru.md` in the repository root.
+For a full Russian-language overview and setup guide, see the [Russian README](README.ru.md) in the repository root.
